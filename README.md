@@ -5,6 +5,10 @@ Installations
 
 Project Motivations
 - The motivation of the project: practice for the course and improve some data scientist's skills
+- As exploring the dataset, I want to know more about:
+1. How is the rooms' situation in Boston?
+2. How is the business in Boston?
+3. What makes a host become top booking?
 
 File description
 - Gather, visualize and briefly analyze some criteria from the dataset
