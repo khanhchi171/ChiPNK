@@ -10,3 +10,5 @@ File description
 - Gather, visualize and briefly analyze some criteria from the dataset
 - The dataset used: https://www.kaggle.com/datasets/airbnb/boston
 - There are two main sections: Data preparation, Data analytics
+
+Link to the blogpost https://chipnkproject.blogspot.com/2022/08/boston-airbnb-booking-business.html
