@@ -1,7 +1,8 @@
 # Project1_ChiPNK
 Installations
 - The libraries are used: pandas, numpy, matpotlib
-- 
+- The tool used: Visual Studio Code
+
 Project Motivations
 - The motivation of the project: practice for the course and improve some data scientist's skills
 - 
