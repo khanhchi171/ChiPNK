@@ -5,7 +5,7 @@ Installations
 
 Project Motivations
 - The motivation of the project: practice for the course and improve some data scientist's skills
-- 
+
 File description
 - Gather, visualize and briefly analyze some criteria from the dataset
 - The dataset used: https://www.kaggle.com/datasets/airbnb/boston
