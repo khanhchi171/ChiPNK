@@ -16,3 +16,10 @@ File description
 - There are two main sections: Data preparation, Data analytics
 
 Link to the blogpost https://chipnkproject.blogspot.com/2022/08/boston-airbnb-booking-business.html
+
+Licensing, Authors and Acknowledgements
+Dataset credits
+- The data is from http://insideairbnb.com/get-the-data/
+Acknowledgement
+- This dataset is part of Airbnb Inside, and the original source can be found here.
+- Acknowledgement should go to Kaggle for providing the dataset. Acknowledgement should also go to Udacity for their excellent Data Scientist tutorial.
